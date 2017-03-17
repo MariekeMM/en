@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "EN Portfolio 2017",
-    "currentPage": "index.html",
+    "currentPage": "photography.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 41,
+    "uniqCompNum": 43,
     "versionPublish": "3.12.1",
     "favicon": "",
     "noImageResize": "true",
@@ -169,7 +169,7 @@
             "logo": false,
             "showBrand": false,
             "collapsed": true,
-            "hideButtons": true
+            "hideButtons": false
           },
           "logo": {
             "image": {
@@ -186,7 +186,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"graphicdesign.html\">Graphic Design</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photography.html\">Photography</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">Home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"graphicdesign.html\">Graphic Design</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"photography.html\">Photography</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"about.html\">About</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">Nederlands</a></li>"
         }
       ]
     },
@@ -922,7 +922,7 @@
             "paddingBottom": "7",
             "bgColor": "#fff"
           },
-          "text": "<p>Marieke Marteaux (°1995) is momenteel een derdejaars student grafisch ontwerp aan het Sint-Lucas gelegen te Gent. </p><p>Ze houdt van notitieboekjes kopen en nooit gebruiken, dansen alsof er niemand kijkt en kaas.&nbsp;</p><p><br></p><p>Te bereiken via email op mariekemarteaux@hotmail.com</p>"
+          "text": "<p>Marieke Marteaux (°1995) is a third year graphic design student at Sint-Lucas Ghent. </p><p>She enjoys buying little notebooks and never using them, dancing like no one's watching and cheese.</p><p><br></p><p>You can reach here via email at mariekemarteaux@hotmail.com</p>"
         },
         {
           "_tags": [
@@ -1116,7 +1116,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<p>Analoge fotografie is voor mij een manier om op een zeer vrije, maar toch bedachtezame manier om te gaan met de wereld rondom me. De magie van de analoge fotografie - de onzekerheid over hoe het resultaat er exact uit zal zien en welk effect de camera zal hebben op het resultaat - is iets dat me fascineert en enthousiast maakt om te spelen met licht en kleur.</p><p><br></p><p>Alle foto's zijn gedrukt op het standaard 10cm x 15cm formaat.&nbsp;</p>"
+          "text": "<p>Analogue photography is a way for me to explore the world around me in a free yet thoughtful way. The magic of analogue photography - the uncertainty about how the images will turn out and how the camera will effect the final images - is something that fascinates me and it makes me enthusiastic to play with the lighting and colours.</p><p><br></p><p>All the images are produced on the standard 10cm x 15cm format.&nbsp;</p>"
         },
         {
           "_tags": [
@@ -1257,7 +1257,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-13.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-12.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1273,7 +1273,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-11.jpg",
+              "src": "@PROJECT_PATH@/assets/images/scan-5.jpeg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1366,7 +1366,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-13.jpg",
+              "src": "@PROJECT_PATH@/assets/images/scan-4.jpeg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1382,7 +1382,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-11.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-10.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1491,7 +1491,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-11.jpg",
+              "src": "@PROJECT_PATH@/assets/images/scan-3.jpeg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1584,7 +1584,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-13.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-11.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1600,7 +1600,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-11.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-2.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1693,7 +1693,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-13.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-3.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1709,7 +1709,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-11.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-4.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1777,7 +1777,116 @@
             "Theme"
           ],
           "_name": "features3",
-          "_anchor": "features3-13",
+          "_anchor": "features3-15",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "2",
+            "showImages": true,
+            "showTitles": false,
+            "showSubtitles": false,
+            "ShowTexts": false,
+            "showButtons": false
+          },
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-6.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Bootstrap 4",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/img-5.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "Responsive",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title3": "Web Fonts",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/windows-books.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "image": {
+              "src": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features3",
+          "_anchor": "features3-16",
           "_params": {
             "paddingTop": "0",
             "paddingBottom": 2,
@@ -1802,7 +1911,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-13.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-6.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1818,7 +1927,7 @@
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/img-11.jpg",
+              "src": "@PROJECT_PATH@/assets/images/img-5.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
